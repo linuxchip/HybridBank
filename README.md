@@ -13,6 +13,8 @@ Hybrid Bank is building a platform with missing Tools and Techniques where all D
 
 Here are the links:
 
-* [Product website](https://www.hybridbank.io//)
+* [Product website](https://www.hybridbank.io/)
 * [Whitepaper](https://www.hybridbank.io/images/whitepaper.pdf)
 * [Telegram](https://t.me/hybrid_bank)
+* [Youtube](https://www.youtube.com/channel/UCDwYjcAuzzao9iNccHWlu-g)
+* [Linkedin](https://www.linkedin.com/company/hybridbank/)
